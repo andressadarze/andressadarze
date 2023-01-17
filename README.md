@@ -13,5 +13,7 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressadarze&show_icons=true&theme=dark)
 
-[![Linkedin Badge](https://img.shields.io/badge/-andressadarze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressadarze/)](https://www.linkedin.com/in/andressadarze/)
-[![Gmail Badge](https://img.shields.io/badge/-andressa.darze@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andressa.darze@gmail.com)](mailto:andressa.darze@gmail.com)
+### :mailbox: Entre em contato
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressadarze)
+[![Gmail Badge](https://img.shields.io/badge/-andressa.darze@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andressa.darze@gmail.com)](mailto:andressa.darze@gmail.com)
