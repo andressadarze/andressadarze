@@ -11,7 +11,7 @@
 
 ### :zap: GitHub Stats
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressadarze&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressadarze&show_icons=true&theme=radical) 
 
 ### :mailbox: Entre em contato
 
